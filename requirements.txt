@@ -2,4 +2,4 @@ streamlit
 pandasai
 openai
 pandas
-beautifulsoup4
+beautifulsoup
