@@ -2,3 +2,4 @@ streamlit
 pandasai
 openai
 pandas
+pandasai.llm.azure_openai
